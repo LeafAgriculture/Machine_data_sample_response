@@ -17,8 +17,8 @@ The response contains the original file, conversion files, data translated into 
   "status": "CONVERTED",
   "stdGeojsonUrl": "https://converter-prd-conversionsbucket-1oq1gn85k16lk.s3.us-west-2.amazonaws.com/9753076c-5a54-4026-8820-58079564fb49.json",
   "pngUrl": "https://converter-prd-conversionsbucket-1oq1gn85k16lk.s3.us-west-2.amazonaws.com/4128678e-af5c-4087-9217-b33da2f1e2f3.zip",
-  "leafUserId": "8a809eb2-71e6-592c-0172-143c30230018",
-  "apiOwnerUsername": "gmb3@sharklasers.com",
+  "leafUserId": "",
+  "apiOwnerUsername": "",
   "fileType": "PRESCRIPTION",
   "convertedTime": "2020-05-29T17:47:56.138",
   "createdTime": "2020-05-29T17:46:12.981",
@@ -36,7 +36,7 @@ The response contains the original file, conversion files, data translated into 
         "max": 775.38288827
       },
       "crop": [
-        174
+        corn
       ],
       "startTime": "2016-04-23T14:32:04.200000+00:00",
       "endTime": "2016-04-24T02:05:56.357000+00:00",
