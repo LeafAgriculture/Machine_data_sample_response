@@ -36,7 +36,7 @@ The response contains the original file, conversion files, data translated into 
         "max": 775.38288827
       },
       "crop": [
-        corn
+        "soybeans"
       ],
       "startTime": "2016-04-23T14:32:04.200000+00:00",
       "endTime": "2016-04-24T02:05:56.357000+00:00",
