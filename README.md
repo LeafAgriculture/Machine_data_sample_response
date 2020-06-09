@@ -1,3 +1,10 @@
+Here you can find an example response from Leaf's Machine Data API. 
+The response contains the original file, conversion files, data translated into a unified machine data model, rendered images of the operation, summary data of the operation, polygon of the area, and more. We've added each file generated in this repository for easy viewing.
+
+
+
+
+
 ``` json
 {
   "id": "c06ad9c0-38b7-4d03-8182-4979352636a1",
